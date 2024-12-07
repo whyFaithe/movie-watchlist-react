@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router": "7.0.1",
+    "react-router-dom": "7.0.1"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "@vitejs/plugin-react": "*"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
